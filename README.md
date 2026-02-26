@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Md. Tahsinul Haque Tasin.
 
-<!--
-**haquetahsin5731/haquetahsin5731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently an Undergrad student studying Computer Science and Engineering (CSE) at Shahjalal University of Science and Technology (SUST).
 
-Here are some ideas to get you started:
+My focus will be on:
+- Programming fundamentals (Python,C)
+- Linux system administration
+- Networking basics
+- Cybersecurity foundations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This porfile will document my learning progress and projects.
+
+Goals:
+- Build strong problem-solving skills
+- Master Linux and networking
+- Create security-focused tools and projects
+- Contribute to open-source projects in the future
