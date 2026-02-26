@@ -8,7 +8,7 @@ My focus will be on:
 - Networking basics
 - Cybersecurity foundations
 
-This porfile will document my learning progress and projects.
+This profile will document my learning progress and projects.
 
 Goals:
 - Build strong problem-solving skills
